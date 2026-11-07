@@ -1,0 +1,9 @@
+{
+  "uuid": "iphone-notify@arjun",
+  "name": "iPhone Notifications",
+  "description": "Mirror iPhone notifications to the desktop over Bluetooth (ANCS). Quick Settings tile to toggle, pair and see recent notifications. Requires the iphone-notify service.",
+  "shell-version": [
+    "50",
+    "51"
+  ]
+}
