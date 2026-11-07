@@ -1,0 +1,17 @@
+.iphone-notify-hint {
+    font-size: 0.9em;
+}
+
+.iphone-notify-recent {
+    spacing: 2px;
+    max-width: 22em;
+}
+
+.iphone-notify-recent-app {
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+.iphone-notify-recent-text {
+    font-size: 0.9em;
+}
